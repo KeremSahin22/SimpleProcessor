@@ -1,1 +1,1 @@
-SimpleProcessor
+In our Digital Design class, we have created a simple processor from SystemVerilog using the Vivado platform. The simple processor has a basic architecture with a datapath, control unit and instruction memory. The processor is able to do simple ALU instructions, as well as storing and loading information from the register file.
